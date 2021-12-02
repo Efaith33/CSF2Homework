@@ -7,10 +7,11 @@ using ClassLibrary1;
 
 namespace TesterProgram
 {
-    class Program
+    class TesterProgram
     {
         static void Main(string[] args)
         {
+            
             Student s1 = new Student();
             s1.FirstName = "Loyd";
             s1.LastName = "Christmas";
