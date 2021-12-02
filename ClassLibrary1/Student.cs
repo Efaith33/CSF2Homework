@@ -8,7 +8,7 @@ namespace ClassLibrary1
 {
     public class Student
     {
-        //frugal / fields
+        //frugal / fields;
         private string _firstName;
         private string _lastName;
         private string _id;
